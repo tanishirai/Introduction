@@ -16,8 +16,8 @@ Tools: Git, GitHub, VS Code
 
 # 🎬 Introduction Video
 
-📌 Watch my introduction video here:
-👉 Click to View Video 
+📌 Watch my introduction video here: 
+👉 Click to View Video - https://drive.google.com/file/d/10pCbQd3RCrtkM1mxWq2UR1I9mxvfqUZV/view?usp=sharing
 
 
 # 📩 Connect With Me
